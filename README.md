@@ -1,1 +1,1 @@
-# covid_risk_assessment_tool
+# covid_risk_assessment_model
