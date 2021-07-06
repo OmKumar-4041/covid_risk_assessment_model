@@ -1,1 +1,1 @@
-# covid_analysis_using_machine_learning
+# covid_risk_assessment_tool
